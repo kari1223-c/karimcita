@@ -1,12 +1,14 @@
 # karimcita
 ## creditos
-porqu soy yo xd
-       -kari
-       -kari3
-       -ka5
+ aprendiendo git hub xd
+       -bichito
+       -levelula
+       -karim
        
 ## requirimientos
-| Day     | Meal    | Price |
+| sotfware| version | pagina |
 | --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| sql     | 1.1     |  1p  |
+| ruby    | 2.1     |  1p  |
+| payton  | 1.1     |  1p  |
+| java    | 2.1     |  1p  |
