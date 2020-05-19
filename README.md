@@ -14,3 +14,5 @@
 | java    | 2.1     |  1p  |
 ## como desplegar la aplicacion
 - despelgar la aplicacion se realiza lo siguient 
+## como cambiar la cuenta xd
+- sigue esto xd 
