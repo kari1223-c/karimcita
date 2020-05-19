@@ -16,3 +16,5 @@
 - despelgar la aplicacion se realiza lo siguient 
 ## como cambiar la cuenta xd
 - sigue esto xd 
+## como cambiar el login xd
+- sigue esto xd 
