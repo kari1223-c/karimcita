@@ -12,3 +12,5 @@
 | ruby    | 2.1     |  1p  |
 | payton  | 1.1     |  1p  |
 | java    | 2.1     |  1p  |
+## como desplegar la aplicacion
+- despelgar la aplicacion se realiza lo siguient 
