@@ -19,4 +19,4 @@
 ## como cambiar el login xd
 - sigue esto xd 
 ## cambios en dev.v1
--ccc
+-ccc q
