@@ -20,3 +20,7 @@
 - sigue esto xd 
 ## cambios en dev.v1
 -ccc q
+## karim nuevo 
+  - para hacer prueba 
+## app para prueba
+   - prueba 1
